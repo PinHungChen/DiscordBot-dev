@@ -1,0 +1,1215 @@
+Logged in as 櫻桃鴨#2201!
+Logged in as 櫻桃鴨#2201!
+Logged in as 櫻桃鴨#2201!
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /home/opc/discord-bot/DiscordBot/bot.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:94:18)
+    at Object.<anonymous> (/home/opc/discord-bot/DiscordBot/bot.js:7:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/opc/discord-bot/DiscordBot/bot.js' ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'request'
+Require stack:
+- /home/opc/discord-bot/DiscordBot/bot.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:94:18)
+    at Object.<anonymous> (/home/opc/discord-bot/DiscordBot/bot.js:7:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/opc/discord-bot/DiscordBot/bot.js' ]
+}
+Logged in as 櫻桃鴨#2201!
+[鴨子區]didi3325s: ping
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: ping
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間1631680771276
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 1631709571276 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 40 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 1631680885925 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 42 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 12 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 44 分
+886834469485572147
+886855737509285918
+Logged in as 櫻桃鴨#2201!
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間20 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 14 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 28 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 45 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間20 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 14 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 1631652793660 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 28 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 54 分
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 54 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間20 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 28 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 1631681700669 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 56 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間20 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間4 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 14 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 28 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 58 分
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 1631681865210 時12
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 58 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間21 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間5 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 14 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 3 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間5 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 14 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 29 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 4 分
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 13 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 3 分
+886834469485572147
+886855737509285918
+Logged in as 櫻桃鴨#2201!
+Logged in as 櫻桃鴨#2201!
+Logged in as 櫻桃鴨#2201!
+[鴨子區]didi3325s: ping
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: ping
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間21 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 5 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 6 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間21 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 5 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 7 分
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: 幾點
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 伺服器時間21 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 台灣時間
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 9 月
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 15 日
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 5 時
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 19 分
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[vps-server]didi3325s: https://izo.tw/oracle-cloud-oci/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: https://forum.gamer.com.tw/C.php?bsn=18673&snA=190634
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: https://hsiangfeng.github.io/other/20200510/1067127387/
+851016680829616138
+887959208836866049
+[一般]didi3325s: ping
+851016680829616138
+863106640433512532
+[一般]櫻桃鴨: ping
+886834469485572147
+863106640433512532
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[一般]Yeeee: 剛…剛睡醒( ･᷄ὢ･᷅ )
+813019469207175170
+871090398972477502
+[vps-server]didi3325s: Linux .sh access
+https://andy6804tw.github.io/2020/07/21/linux-shell-script/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: VIM 編輯
+https://www.delftstack.com/zh-tw/howto/linux/how-to-save-files-before-quitting-the-vim-editor/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: Linux crontab 排程
+http://claire-chang.com/2020/03/26/linux-%E8%A8%AD%E5%AE%9A%E6%8E%92%E7%A8%8B-crontab/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: https://haoduck.com/310.html
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: https://ephrain.net/linux-%E6%AA%A2%E8%A6%96-cron-%E6%8E%92%E7%A8%8B%E6%AD%B7%E5%8F%B2%E8%A8%98%E9%8C%84/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: linux firewall setting
+https://blog.xuite.net/tolarku/blog/363801991-CentOS+7+Firewalld+%E9%98%B2%E7%81%AB%E7%89%86%E8%AA%AA%E6%98%8E%E4%BB%8B%E7%B4%B9
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: 
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: ICMP 
+https://www.netadmin.com.tw/netadmin/zh-tw/technology/111381F2995A4AB48672E965F63133AE?page=2
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: 
+851016680829616138
+887959208836866049
+[鴨子區]didi3325s: <@886834469485572147> checkall
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: ping
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: ping
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@886834469485572147> checkin
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[github]didi3325s: https://www.youtube.com/watch?v=YTkpWAsL0Fg
+851016680829616138
+888364359707934720
+[javascript]didi3325s: AJAX 簡易教學
+https://www.youtube.com/watch?v=OkphAk_cWPM
+851016680829616138
+875378646758600734
+[vps-server]didi3325s: Linux apache 建立網頁伺服器方法
+http://www.tsnien.idv.tw/Linux_WebBook/chap9/9-4%20%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8.html
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: 同上
+http://dic.vbird.tw/linux_server/unit10.php
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: Apache setup
+https://ithelp.ithome.com.tw/articles/10194699?sc=iThelpR
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: apache alarm check
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: apache 指令
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/620851/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: .htaccess fttp to fttps
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: htaccess
+https://medium.com/%E6%B5%A6%E5%B3%B6%E5%A4%AA%E9%83%8E%E7%9A%84%E6%B0%B4%E6%97%8F%E7%BC%B8/htaccess-with-rewrite-3dba066aff11
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: SSL 申請
+http://www.wkb.idv.tw/study/centos/c06.htm
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: linux web https setup
+http://cn.linux.vbird.org/linux_server/0360apache_5.php
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: linux ssl 位置
+https://www.codepulse.com.tw/zh-tw/ssl%E6%86%91%E8%AD%89%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8%EF%BC%8C%E4%BB%A5centos%E7%82%BA%E4%BE%8B
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: Free ssl (90 days) 
+https://www.cool3c.com/article/110608
+851016680829616138
+887959208836866049
+[database-server]didi3325s: Node MVC 
+https://hackmd.io/@Heidi-Liu/note-be201-express-node
+851016680829616138
+889098701585395722
+[vps-server]didi3325s: 伺服器維護
+https://www.cynet.com.tw/learning/apache/apachedoc.Htm
+851016680829616138
+887959208836866049
+[database-server]didi3325s: Linux mssql
+https://blog.kkbruce.net/2017/12/ms-sql-server-for-linux.html?m=1
+851016680829616138
+889098701585395722
+[vps-server]didi3325s: PuTTy SSH連線軟體
+https://wptutorialzh.com/putty%E5%85%8D%E8%B2%BBssh%E9%80%A3%E7%B7%9A%E8%BB%9F%E9%AB%94%E6%95%99%E5%AD%B8windows%E9%81%A0%E7%A8%8B%E9%80%A3%E6%8E%A5linux%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: linux gui method
+http://linux.vbird.org/linux_server/0310telnetssh.php
+851016680829616138
+887959208836866049
+[vps-server]didi3325s: sql setup at sql && gui
+https://www.youtube.com/watch?v=Lh6DI6GNxmA
+851016680829616138
+887959208836866049
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[ai]didi3325s: Chatfuel聊天機器人
+https://frankknow.com/chatfuel-tips-teach/
+851016680829616138
+875378805856960554
+[github]didi3325s: sourcetree & github入門
+https://www.youtube.com/watch?v=vlzHSSRhzTU&t=1733s
+851016680829616138
+888364359707934720
+[github]didi3325s: Git 詳細 & terminal 操作
+https://www.youtube.com/watch?v=PNEM7CH3ZAg&list=PLYrA-SsMvTPOZeB6DHvB0ewl3miMf-2tj&index=4
+851016680829616138
+888364359707934720
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[貼文]didi3325s: 模擬面試(1)
+https://youtu.be/i3kHDmKwd_Y
+模擬面試(2)
+https://youtu.be/dzcfcQpqAGg
+851016680829616138
+871092344944984154
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[程式設計]didi3325s: https://ithelp.ithome.com.tw/articles/10202075
+851016680829616138
+892806777089978388
+[程式設計]didi3325s: design pattern電子書
+https://github.com/chunminglu/books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80.pdf
+851016680829616138
+892806777089978388
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[javascript]didi3325s: https://www.twblogs.net/a/5d19646fbd9eee1e5c82e0d7
+851016680829616138
+875378646758600734
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[aspnet-mvc]didi3325s: MVC(1)
+https://youtu.be/_hQb_72PC5o
+MVC(2)
+https://youtu.be/Z5wyDS30aSw
+MVC(3)
+https://youtu.be/pH6nwZRnel0
+MVC(4)
+https://youtu.be/GlPJBmXhgu0
+MVC(5)
+https://youtu.be/TKI_u-XHkGU
+MVC(6)
+https://youtu.be/zc1JixR-HCE
+MVC(7)
+https://youtu.be/lw7m4EdR-m4
+MVC(8)
+https://youtu.be/CFWgrchLQI8
+MVC(9)
+MVC(10)
+MVC(11)
+MVC(12)
+851016680829616138
+893471812938244107
+[javascript]didi3325s: jquery after DOM load
+https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/290056/
+851016680829616138
+875378646758600734
+[vps-server]didi3325s: Linux mono
+https://dotblogs.com.tw/stanley14/2017/07/16/dotnetonlinuxApache
+851016680829616138
+887959208836866049
+[iis-server]didi3325s: IIS server設定
+https://shian420.pixnet.net/blog/post/136982849-iis%E6%9E%B6%E7%AB%99%3F
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: IIS local資料夾無法連線解決方式 (APPPOL 登入失敗)
+https://dotblogs.com.tw/jellycheng/2012/08/06/73843
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: IIS 連線MsSql登入權限錯誤解決方式(登入失敗)
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: Azure Windows2016 無UI
+https://social.technet.microsoft.com/Forums/zh-TW/1eeacd66-4bd1-4ac8-8185-2798922d8ad9/23433350372012r2122892016?forum=winserver2012zhtw
+851016680829616138
+894265643522748466
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[一般]didi3325s: https://drive.google.com/file/d/11M04tEWU6fvEfKskb_Cq8sCVpXW0IKvw/view
+851016680829616138
+863106640433512532
+[一般]didi3325s: https://drive.google.com/drive/folders/1FrxBq-U3Y0O1rfWj8bEySjITz9Kjj_N0
+851016680829616138
+863106640433512532
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[iis-server]didi3325s: FileZilla
+https://blog.xuite.net/yh96301/blog/62934220-FileZilla+Server
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: FTP 無法連線設定
+https://iter01.com/577210.html
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: https://mrcodingroom.freesite.host/ftp%E7%94%A8win10%E6%9E%B6%E8%A8%ADftp/
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: filezilla server setting
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: server firewall setting
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: fileZilla cline setting
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: azure VM port setting
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: Azure SQL
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: https://ithelp.ithome.com.tw/articles/10188770
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: web server MVC 404 cant work
+https://www.jianshu.com/p/294133fa4d27
+851016680829616138
+894265643522748466
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[一般]didi3325s: 
+851016680829616138
+863106640433512532
+[iis-server]didi3325s: crt轉ptx
+https://ssl4less.eu/ssl-tools/convert-certificate.html
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: web default page 404 => ax..fjsafjl
+https://www.codeproject.com/Questions/654212/IIS-throwing-HTTP-404-not-found-but-resource-exist
+851016680829616138
+894265643522748466
+[鴨子區]didi3325s: ping
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: ping
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[iis-server]didi3325s: https://nknuahuang.wordpress.com/2020/08/07/windows-server-iis%E5%AE%89%E8%A3%9Dssl%EF%BC%8C%E8%A8%AD%E5%AE%9Ahttp-%E5%BC%B7%E5%88%B6%E8%BD%89-https/
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: https://blog.johnwu.cc/article/iis-install-ssl-certificate.html
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: IIS MVC 預設首頁.
+https://ithelp.ithome.com.tw/questions/10184545
+851016680829616138
+894265643522748466
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[演算法]didi3325s: https://buzzorange.com/techorange/2019/04/29/python-algorithm/?fbclid=IwAR1znOU_wei7-1QlWzQ2gSQUm1D_rpgLrznY2DjbZP5E3rG4oTz3ynbRK38
+851016680829616138
+895329547803848774
+[一般]didi3325s: 資策會全端班-上課講義下載網址
+-------------------------------------------------------------------------------------------------------------
+_jquery_UI.zip下載網址: (檔案大小：5.5M)
+https://drive.google.com/file/d/11M04tEWU6fvEfKskb_Cq8sCVpXW0IKvw/view?usp=sharing
+(下載完成後解壓縮，裡面的「_jquery_UI」就是上課講義與範例程式了。)
+-------------------------------------------------------------------------------------------------------------
+_node.zip 下載網址: (檔案大小：41.4M)
+https://drive.google.com/file/d/1I4hiW29h9Z65MgAJ1_xVH9ZTn_t3qeqX/view?usp=sharing
+(下載完成後解壓縮，裡面的「_node」就是上課講義與範例程式了。)
+-------------------------------------------------------------------------------------------------------------
+_restful.zip 下載網址: (檔案大小：3.3M)
+https://drive.google.com/file/d/1PK_Slmv0pf-mS0VqZiblij5Nf2dzkzFD/view?usp=sharing
+(下載完成後解壓縮，裡面的「_restful」就是上課講義與範例程式了。)
+-------------------------------------------------------------------------------------------------------------
+_vue.zip 下載網址: (檔案大小：2.5M)
+https://drive.google.com/file/d/1mv3RlHkDsAQ2fSKbeUACfbGGRLoDrKA4/view?usp=sharing
+(下載完成後解壓縮，裡面的「_vue」就是上課講義與範例程式了。)
+-------------------------------------------------------------------------------------------------------------
+851016680829616138
+863106640433512532
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[一般]didi3325s: https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2M4NTI1NzU0YzRhNDQ0MGU5ODgwZDM2ZmE3MTk2YTFhX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRA==
+851016680829616138
+863106640433512532
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[iis-server]didi3325s: Web depoly
+https://jumping-fun.blogspot.com/2018/08/iis-web-deploy-at-windows-server-2016.html
+851016680829616138
+894265643522748466
+[鴨子區]didi3325s: 
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: 
+851016680829616138
+886855737509285918
+[iis-server]didi3325s: Web deploy 404
+https://stackoverflow.com/questions/11479927/visual-studio-2012-web-deploy-to-windows-server-2008-r2-with-iis-7-and-msdeploy
+851016680829616138
+894265643522748466
+[iis-server]didi3325s: 
+851016680829616138
+894265643522748466
+[mysql]didi3325s: sql正規畫
+https://ithelp.ithome.com.tw/articles/10229472
+851016680829616138
+871091030508830741
+[一般]didi3325s: yt bili影片無法播放清除DNS ipconfig /flushdns
+https://forum.gamer.com.tw/Co.php?bsn=60030&sn=1877891
+851016680829616138
+871090398972477502
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[mysql]didi3325s: 
+851016680829616138
+871091030508830741
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[貼文]didi3325s: https://drive.google.com/drive/folders/1uxsYxQM2nTPITQZka89KFuxM2znSN7xH?usp=sharing
+851016680829616138
+871092344944984154
+[貼文]didi3325s: 10924139@nhu.edu.tw 密碼20020504
+851016680829616138
+871092344944984154
+[貼文]Yeeee: 載完後點activice 進去到要輸入email跟password那邊才是用學校帳密輸入
+813019469207175170
+871092344944984154
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[程式設計]didi3325s: https://www.ximalaya.com/keji/43099276/
+851016680829616138
+892806777089978388
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[aspnet-mvc]didi3325s: MVC 1-12 播放清單
+https://www.youtube.com/playlist?list=PLlA_QCbYhGudkU7asenBBVg3ajU4JHV64
+851016680829616138
+893471812938244107
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[aspnet-mvc]didi3325s: Code first  entity framework
+https://www.youtube.com/watch?v=Sj-6MCmWqGc
+851016680829616138
+893471812938244107
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]櫻桃鴨: 
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> help
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> alturl
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 請告訴我您的簽到網址
+886834469485572147
+886855737509285918
+[Function: filter]
+[鴨子區]didi3325s: http://service.ispan.com.tw:2330/api/class/remoteAttendance?qrcode=eyJjbGFzc0lEIjoiSk1GVUVOVDIxMDQiLCJFbWFpbCI6ImRpZGkzMzI1c0Bob3RtYWlsLmNvbSIsIk5hbWUiOiLpmbPlk4Hlro8iLCAiY3VzdG9tZXJTTiI6IjIwMDkxMzE2MzYwNiIsIklzTWVhdExlc3MiOiJOIn0
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 我知道了！建議您@我輸入`checkin`指令測試自動簽到
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> checkin
+851016680829616138
+886855737509285918
+/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413
+    if (typeof data !== 'string') throw new error(errorMessage);
+                                  ^
+
+RangeError [EMBED_FIELD_VALUE]: MessageEmbed field values must be non-empty strings.
+    at Function.verifyString (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413:41)
+    at Function.normalizeField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:443:19)
+    at /home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:464:14
+    at Array.map (<anonymous>)
+    at Function.normalizeFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:463:8)
+    at MessageEmbed.addFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:286:42)
+    at MessageEmbed.addField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:277:17)
+    at Request._callback (/home/opc/discord-bot/DiscordBot/bot.js:164:12)
+    at Request.self.callback (/home/opc/discord-bot/DiscordBot/node_modules/request/request.js:185:22)
+    at Request.emit (node:events:394:28) {
+  [Symbol(code)]: 'EMBED_FIELD_VALUE'
+}
+Logged in as 櫻桃鴨#2201!
+[鴨子區]didi3325s: ping
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: ping
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> alturl
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 請告訴我您的簽到網址
+886834469485572147
+886855737509285918
+[Function: filter]
+[鴨子區]didi3325s: http://service.ispan.com.tw:2330/api/class/remoteAttendance?qrcode=eyJjbGFzc0lEIjoiSk1GVUVOVDIxMDQiLCJFbWFpbCI6ImRpZGkzMzI1c0Bob3RtYWlsLmNvbSIsIk5hbWUiOiLpmbPlk4Hlro8iLCAiY3VzdG9tZXJTTiI6IjIwMDkxMzE2MzYwNiIsIklzTWVhdExlc3MiOiJOIn0
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 我知道了！建議您@我輸入`checkin`指令測試自動簽到
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> checkin
+851016680829616138
+886855737509285918
+/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413
+    if (typeof data !== 'string') throw new error(errorMessage);
+                                  ^
+
+RangeError [EMBED_FIELD_VALUE]: MessageEmbed field values must be non-empty strings.
+    at Function.verifyString (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413:41)
+    at Function.normalizeField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:443:19)
+    at /home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:464:14
+    at Array.map (<anonymous>)
+    at Function.normalizeFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:463:8)
+    at MessageEmbed.addFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:286:42)
+    at MessageEmbed.addField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:277:17)
+    at Request._callback (/home/opc/discord-bot/DiscordBot/bot.js:164:12)
+    at Request.self.callback (/home/opc/discord-bot/DiscordBot/node_modules/request/request.js:185:22)
+    at Request.emit (node:events:394:28) {
+  [Symbol(code)]: 'EMBED_FIELD_VALUE'
+}
+Logged in as 櫻桃鴨#2201!
+[鴨子區]didi3325s: <@!886834469485572147> alturl
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 請告訴我您的簽到網址
+886834469485572147
+886855737509285918
+[Function: filter]
+[鴨子區]didi3325s: http://service.ispan.com.tw:2330/api/class/remoteAttendance?qrcode=eyJjbGFzc0lEIjoiSk1GVUVOVDIxMDQiLCJFbWFpbCI6ImRpZGkzMzI1c0Bob3RtYWlsLmNvbSIsIk5hbWUiOiLpmbPlk4Hlro8iLCAiY3VzdG9tZXJTTiI6IjIwMDkxMzE2MzYwNiIsIklzTWVhdExlc3MiOiJOIn0
+851016680829616138
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> alturl
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 請告訴我您的簽到網址
+886834469485572147
+886855737509285918
+[Function: filter]
+[鴨子區]didi3325s: http://service.ispan.com.tw:2330/api/class/remoteAttendance?qrcode=eyJjbGFzc0lEIjoiSk1GVUVOVDIxMDQiLCJFbWFpbCI6ImRpZGkzMzI1c0Bob3RtYWlsLmNvbSIsIk5hbWUiOiLpmbPlk4Hlro8iLCAiY3VzdG9tZXJTTiI6IjIwMDkxMzE2MzYwNiIsIklzTWVhdExlc3MiOiJOIn0
+851016680829616138
+886855737509285918
+[鴨子區]櫻桃鴨: 我知道了！建議您@我輸入`checkin`指令測試自動簽到
+886834469485572147
+886855737509285918
+[鴨子區]didi3325s: <@!886834469485572147> checkin
+851016680829616138
+886855737509285918
+/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413
+    if (typeof data !== 'string') throw new error(errorMessage);
+                                  ^
+
+RangeError [EMBED_FIELD_VALUE]: MessageEmbed field values must be non-empty strings.
+    at Function.verifyString (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/util/Util.js:413:41)
+    at Function.normalizeField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:443:19)
+    at /home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:464:14
+    at Array.map (<anonymous>)
+    at Function.normalizeFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:463:8)
+    at MessageEmbed.addFields (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:286:42)
+    at MessageEmbed.addField (/home/opc/discord-bot/DiscordBot/node_modules/discord.js/src/structures/MessageEmbed.js:277:17)
+    at Request._callback (/home/opc/discord-bot/DiscordBot/bot.js:164:12)
+    at Request.self.callback (/home/opc/discord-bot/DiscordBot/node_modules/request/request.js:185:22)
+    at Request.emit (node:events:394:28) {
+  [Symbol(code)]: 'EMBED_FIELD_VALUE'
+}

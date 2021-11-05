@@ -1,0 +1,18 @@
+{
+  "CLIENT_ID": "886834469485572147",
+  "CHANNEL_ID": "886855737509285918",
+  "holidays": [
+    {
+      "8": [ 1, 6, 7, 8, 9, 14, 15, 20, 21, 22, 27, 28, 29 ],
+      "9": [ 4, 5, 10, 11, 12, 17, 18, 19, 25, 26 ],
+      "10": [ 2, 3, 9, 10, 16, 17, 23, 24, 30, 31 ],
+      "11": [ 6, 7, 13, 14, 16, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 ]
+    }
+  ],
+  "userInfo": [
+    {
+      "id": 851016680829616100,
+      "url": "http://service.ispan.com.tw:2330/api/class/remoteAttendance?qrcode=eyJjbGFzc0lEIjoiSk1GVUVOVDIxMDQiLCJFbWFpbCI6ImRpZGkzMzI1c0Bob3RtYWlsLmNvbSIsIk5hbWUiOiLpmbPlk4Hlro8iLCAiY3VzdG9tZXJTTiI6IjIwMDkxMzE2MzYwNiIsIklzTWVhdExlc3MiOiJOIn"
+    }
+  ]
+}
